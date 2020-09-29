@@ -19,7 +19,7 @@ User must have node.js installed and npm installed to run this application
 ## Usage
 This application can be used to created individual member information and it will run using the Terminal
 Video Demonstration: https://drive.google.com/file/d/1IjRhqszIVI5Xz1a_WNTdYyTz7Majiwy8/view
-<img scr="./Assets/Screen%20Shot%202020-09-28%20at%2011.43.14%20PM.png">
+<img src="./Assets/Screen%20Shot%202020-09-28%20at%2011.43.14%20PM.png">
 
 
 ## License
